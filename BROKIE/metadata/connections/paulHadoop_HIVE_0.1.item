@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_BdhrAIbXEeijar3nA0eseg" DatabaseType="Hive" URL="jdbc:hive2://10.10.130.160:10000/default" Port="10000" Username="hdfs" ServerName="10.10.130.160" SID="default" DbmsId="hive_id" ProductId="HIVE">
+  <parameters xmi:id="_BdhrAYbXEeijar3nA0eseg" key="CONN_PARA_KEY_USE_YARN" value="true"/>
+  <parameters xmi:id="_BdhrAobXEeijar3nA0eseg" key="CONN_PARA_KEY_RESOURCEMANAGER_SCHEDULER_ADDRESS" value="10.10.130.160:8030"/>
+  <parameters xmi:id="_BdhrA4bXEeijar3nA0eseg" key="CONN_PARA_KEY_USE_CUSTOM_CONFS" value="true"/>
+  <parameters xmi:id="_BdhrBIbXEeijar3nA0eseg" key="CONN_PARA_KEY_NAME_NODE_URL" value="hdfs://10.10.130.160:8020"/>
+  <parameters xmi:id="_BdhrBYbXEeijar3nA0eseg" key="CONN_PARA_KEY_USERNAME" value="hdfs"/>
+  <parameters xmi:id="_BdhrBobXEeijar3nA0eseg" key="CONN_PARA_KEY_HADOOP_CLUSTER_ID" value="_wVRJkIbWEeijar3nA0eseg"/>
+  <parameters xmi:id="_BdhrB4bXEeijar3nA0eseg" key="CONN_PARA_KEY_JOB_HISTORY_PRINCIPAL" value="mapred/_HOST@EXAMPLE.COM"/>
+  <parameters xmi:id="_BdhrCIbXEeijar3nA0eseg" key="CONN_PARA_KEY_HBASE_VERSION" value="Cloudera_CDH5_10"/>
+  <parameters xmi:id="_BdhrCYbXEeijar3nA0eseg" key="CONN_PARA_KEY_JOB_TRACKER_URL" value="10.10.130.160:8032"/>
+  <parameters xmi:id="_BdhrCobXEeijar3nA0eseg" key="CONN_PARA_KEY_JOBHISTORY_ADDRESS" value="10.10.130.160:10020"/>
+  <parameters xmi:id="_BdhrC4bXEeijar3nA0eseg" key="CONN_PARA_KEY_HIVE_VERSION" value="Cloudera_CDH5_10"/>
+  <parameters xmi:id="_BdhrDIbXEeijar3nA0eseg" key="CONN_PARA_KEY_USE_DATANODE_HOSTNAME" value="true"/>
+  <parameters xmi:id="_BdhrDYbXEeijar3nA0eseg" key="CONN_PARA_KEY_DB_SERVER" value="10.10.130.160"/>
+  <parameters xmi:id="_BdhrDobXEeijar3nA0eseg" key="CONN_PARA_KEY_DB_TYPE" value="Hive"/>
+  <parameters xmi:id="_BdhrD4bXEeijar3nA0eseg" key="CONN_PARA_KEY_MAPRDB_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_BdhrEIbXEeijar3nA0eseg" key="CONN_PARA_KEY_JOB_TRACKER_PRINCIPAL" value="yarn/_HOST@EXAMPLE.COM"/>
+  <parameters xmi:id="_BdhrEYbXEeijar3nA0eseg" key="CONN_PARA_KEY_HIVE_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_BdhrEobXEeijar3nA0eseg" key="CONN_PARA_KEY_MAPRDB_VERSION" value="Cloudera_CDH5_10"/>
+  <parameters xmi:id="_BdhrE4bXEeijar3nA0eseg" key="CONN_PARA_KEY_MAPRDB_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_BdhrFIbXEeijar3nA0eseg" key="CONN_PARA_KEY_USE_KRB" value="false"/>
+  <parameters xmi:id="_BdhrFYbXEeijar3nA0eseg" key="CONN_PARA_KEY_HBASE_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_BdhrFobXEeijar3nA0eseg" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
+  <parameters xmi:id="_BdhrF4bXEeijar3nA0eseg" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="hdfs/_HOST@EXAMPLE.COM"/>
+  <parameters xmi:id="_BdhrGIbXEeijar3nA0eseg" key="CONN_PARA_KEY_DB_PRODUCT" value="HIVE"/>
+  <parameters xmi:id="_BdhrGYbXEeijar3nA0eseg" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_BdhrGobXEeijar3nA0eseg" key="HIVE_AUTHENTICATION_METASTOREURL" value="thrift://quickstart.cloudera:9083"/>
+  <parameters xmi:id="_BdhrG4bXEeijar3nA0eseg" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_BdhrHIbXEeijar3nA0eseg" key="HIVE_SERVER_VERSION" value="HIVE2"/>
+  <parameters xmi:id="_BdhrHYbXEeijar3nA0eseg" key="CONN_PARA_KEY_HIVE_MODE" value="STANDALONE"/>
+</TalendMetadata:DatabaseConnection>
